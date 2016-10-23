@@ -35,7 +35,7 @@ int main() {
 	printf("\nMasukkan Angka Angkanya : \n");
 	for(i=0; i<num; i++){
 		scanf("%i", &a[i]);
-	}
+	} 
 	printf("\nAngka Angkanya adalah : \n");
 	for( i=0; i<num; i++){
 		printf("%i ", a[i]);
