@@ -14,9 +14,6 @@ public class Konversi2 {
         System.out.println("3. HexaDesimal");
         System.out.println("4. Oktal");
         
-        
-        
-        
             System.out.print("Masukkan pilihan anda: ");
             int pila = scan.nextInt();
             switch (pila) {
