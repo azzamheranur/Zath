@@ -35,7 +35,7 @@ int x[size],i,uang,n,k,hasil[size];
 	printf("Keping %d",x[i]);
 	printf("-an sebanyak : %d",hasil[i];
 	printf("\n %d");
-	}
+	} 
 	
 	printf("Sisanya adalah : %d",k);
 	getch;
